@@ -192,4 +192,3 @@ El proyecto utiliza `RANDOM_STATE = 42`, separación por operativo y controles a
 - separación entre operativos de train/test
 - métricas finales dentro de una tolerancia pequeña
 
-El objetivo es que el notebook pueda ejecutarse de principio a fin con **Run All**.
