@@ -108,7 +108,7 @@ ceci-proyecto-final/
 
 ## Instalación
 
-Se recomienda Python 3.11 o superior.
+Se recomienda Python 3.13. o superior.
 
 Crear un entorno virtual es opcional pero recomendado:
 
